@@ -32,7 +32,7 @@ This project implements a **complete machine learning pipeline** for predicting 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 house_price_portfolio/
@@ -45,7 +45,7 @@ house_price_portfolio/
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Price Drivers
 1. **Living Area** - Strongest predictor (r=0.942)
@@ -67,7 +67,7 @@ house_price_portfolio/
 
 ---
 
-## 📈 Model Performance Comparison
+##  Model Performance Comparison
 
 | Model | R² Score | RMSE | MAE |
 |-------|----------|------|-----|
